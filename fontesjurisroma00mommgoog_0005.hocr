@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesjurisroma00mommgoog/fontesjurisroma00mommgoog_0005.png"; bbox 0 0 3386 5240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 732 1839 950 1924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 732 1839 950 1924">
+     <span class='ocr_line' id='line_1_1' title="bbox 732 1839 950 1924; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 732 1839 950 1924; x_wconf 77' lang='lat' dir='ltr'>FONTES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 351 2151 1296 2318">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 351 2151 1296 2318">
+     <span class='ocr_line' id='line_1_2' title="bbox 351 2151 1296 2318; baseline 0.002 -54"><span class='ocrx_word' id='word_1_2' title='bbox 351 2151 594 2318; x_wconf 72' lang='lat' dir='ltr'><strong>⁴IURIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 641 2153 930 2266; x_wconf 84' lang='lat' dir='ltr'><strong>ROMANI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 976 2153 1296 2273; x_wconf 77' lang='lat' dir='ltr'><strong>ANTIQUI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 723 2502 870 2510">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 723 2502 870 2510">
+     <span class='ocr_line' id='line_1_3' title="bbox 723 2502 870 2510; baseline 0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 723 2502 870 2510; x_wconf 67' lang='lat' dir='ltr'>——a-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1698 5240">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1698 5240">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1698 5240; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1698 5240; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

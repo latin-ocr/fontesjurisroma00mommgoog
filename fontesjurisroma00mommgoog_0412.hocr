@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesjurisroma00mommgoog_0412.png"; bbox 0 0 3358 5244; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 604 4287 1199 4332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 604 4287 1199 4332">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 4287 1199 4332; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 604 4288 643 4328; x_wconf 73' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_2' title='bbox 660 4287 807 4328; x_wconf 68' lang='lat' dir='ltr'>omem</span> <span class='ocrx_word' id='word_1_3' title='bbox 823 4289 853 4332; x_wconf 83' lang='grc' dir='ltr'>Η,</span> <span class='ocrx_word' id='word_1_4' title='bbox 868 4288 1003 4331; x_wconf 79' lang='lat' dir='ltr'>LAUPPH.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1029 4289 1199 4331; x_wconf 60' lang='lat' dir='ltr'>vunnim.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1684 5244">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1684 5244">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1684 5244; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1684 5244; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
